@@ -1,0 +1,2 @@
+# Inference_fgo_from_main_scenario_as_of_chapter_5
+5章までからの考察
